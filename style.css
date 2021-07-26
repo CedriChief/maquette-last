@@ -1,0 +1,20 @@
+.header-background{
+    width: 100%;
+    height: 500px;
+    background-image: url(./img/pageBcg/bannerBcg.jpeg);
+    background-position: bottom center;
+    display: flex;
+    align-items: center;
+    opacity: 0.5;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+.main-background{
+    width: 100%;
+    height: 500px;
+    background-image: url(./img/home-filler.jpeg);
+}
